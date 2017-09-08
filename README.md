@@ -1,1 +1,5 @@
-# alien_js_page
+# Friends of Design
+
+In class "learn by doing"
+
+# Contents

@@ -1,0 +1,23 @@
+@media all and (max-width: 910px) {
+  #fullScreen {
+    display: inherit;
+  }
+}
+
+@media all and (max-height: 650px) {
+  #fullScreen {
+    display: inherit;
+  }
+}
+
+@media screen and (min-width: 1860px) {
+  #fullScreen1 {
+    display: inherit;
+  }
+}
+
+@media screen and (min-height: 1200px) {
+  #fullScreen1 {
+    display: inherit;
+  }
+}
